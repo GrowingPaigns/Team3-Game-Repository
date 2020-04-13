@@ -1,0 +1,92 @@
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\Team 3 Project (menu).exe
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\Team 3 Project (menu).pdb
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\obj\x86\Debug\Team 3 Project (menu).csprojAssemblyReference.cache
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\obj\x86\Debug\Team 3 Project (menu).csproj.CoreCompileInputs.cache
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\obj\x86\Debug\Team 3 Project (menu).csproj.CopyComplete
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\obj\x86\Debug\Team 3 Project (menu).exe
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\obj\x86\Debug\Team 3 Project (menu).pdb
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\Content\Font.xnb
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\Content\planetsAnimation.xnb
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\Mono.Cecil.dll
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\Mono.Cecil.Rocks.dll
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\MonoGame.Aseprite.dll
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\Mono.Cecil.pdb
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\Mono.Cecil.Mdb.pdb
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\Mono.Cecil.Pdb.pdb
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\Mono.Cecil.Rocks.pdb
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\Content\planets.xnb
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\Content\29MinsToJupiter.wma
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\Content\29MinsToJupiter.xnb
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\Content\Buttons\Font.xnb
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\Content\Buttons\New Game.xnb
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\Content\Buttons\Options.xnb
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\Content\Buttons\Quit Game.xnb
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\Content\Buttons\HighScores.xnb
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\Content\TopBorder.xnb
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\Content\Buttons\MainMenu(button).xnb
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\Content\Buttons\HSBackDrop.xnb
+C:\Users\Samuel\source\repos\Team 3 Project (menu)\Team 3 Project (menu)\bin\Windows\x86\Debug\Content\JupiterTitle.xnb
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\Content\Font.xnb
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\Content\Buttons\Font.xnb
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\Content\Buttons\HighScores.xnb
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\Content\Buttons\HSBackDrop.xnb
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\Content\Buttons\MainMenu(button).xnb
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\Content\Buttons\New Game.xnb
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\Content\Buttons\Options.xnb
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\Content\Buttons\Quit Game.xnb
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\Content\29MinsToJupiter.wma
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\Content\29MinsToJupiter.xnb
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\Content\JupiterTitle.xnb
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\Content\planets.xnb
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\Content\planetsAnimation.xnb
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\Content\TopBorder.xnb
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\Team 3 Project (menu).exe
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\Team 3 Project (menu).pdb
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\Mono.Cecil.dll
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\Mono.Cecil.Rocks.dll
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\MonoGame.Aseprite.dll
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\Mono.Cecil.pdb
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\Mono.Cecil.Mdb.pdb
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\Mono.Cecil.Pdb.pdb
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\Mono.Cecil.Rocks.pdb
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\obj\x86\Debug\Team 3 Project (menu).csprojAssemblyReference.cache
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\obj\x86\Debug\Team 3 Project (menu).csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\obj\x86\Debug\Team 3 Project (menu).csproj.CopyComplete
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\obj\x86\Debug\Team 3 Project (menu).exe
+C:\Users\Samuel\Desktop\Team 3 Project (menu)\obj\x86\Debug\Team 3 Project (menu).pdb

@@ -1,0 +1,198 @@
+{ "frames": [
+   {
+    "filename": "*MainMenu (29 mins(small version)) 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 1280, "h": 960 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 1280, "h": 960 },
+    "sourceSize": { "w": 1280, "h": 960 },
+    "duration": 100
+   },
+   {
+    "filename": "*MainMenu (29 mins(small version)) 1.aseprite",
+    "frame": { "x": 1280, "y": 0, "w": 1280, "h": 960 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 1280, "h": 960 },
+    "sourceSize": { "w": 1280, "h": 960 },
+    "duration": 100
+   },
+   {
+    "filename": "*MainMenu (29 mins(small version)) 2.aseprite",
+    "frame": { "x": 2560, "y": 0, "w": 1280, "h": 960 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 1280, "h": 960 },
+    "sourceSize": { "w": 1280, "h": 960 },
+    "duration": 100
+   },
+   {
+    "filename": "*MainMenu (29 mins(small version)) 3.aseprite",
+    "frame": { "x": 3840, "y": 0, "w": 1280, "h": 960 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 1280, "h": 960 },
+    "sourceSize": { "w": 1280, "h": 960 },
+    "duration": 100
+   },
+   {
+    "filename": "*MainMenu (29 mins(small version)) 4.aseprite",
+    "frame": { "x": 5120, "y": 0, "w": 1280, "h": 960 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 1280, "h": 960 },
+    "sourceSize": { "w": 1280, "h": 960 },
+    "duration": 100
+   },
+   {
+    "filename": "*MainMenu (29 mins(small version)) 5.aseprite",
+    "frame": { "x": 6400, "y": 0, "w": 1280, "h": 960 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 1280, "h": 960 },
+    "sourceSize": { "w": 1280, "h": 960 },
+    "duration": 100
+   },
+   {
+    "filename": "*MainMenu (29 mins(small version)) 6.aseprite",
+    "frame": { "x": 7680, "y": 0, "w": 1280, "h": 960 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 1280, "h": 960 },
+    "sourceSize": { "w": 1280, "h": 960 },
+    "duration": 100
+   },
+   {
+    "filename": "*MainMenu (29 mins(small version)) 7.aseprite",
+    "frame": { "x": 8960, "y": 0, "w": 1280, "h": 960 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 1280, "h": 960 },
+    "sourceSize": { "w": 1280, "h": 960 },
+    "duration": 100
+   },
+   {
+    "filename": "*MainMenu (29 mins(small version)) 8.aseprite",
+    "frame": { "x": 10240, "y": 0, "w": 1280, "h": 960 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 1280, "h": 960 },
+    "sourceSize": { "w": 1280, "h": 960 },
+    "duration": 100
+   },
+   {
+    "filename": "*MainMenu (29 mins(small version)) 9.aseprite",
+    "frame": { "x": 11520, "y": 0, "w": 1280, "h": 960 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 1280, "h": 960 },
+    "sourceSize": { "w": 1280, "h": 960 },
+    "duration": 100
+   },
+   {
+    "filename": "*MainMenu (29 mins(small version)) 10.aseprite",
+    "frame": { "x": 0, "y": 960, "w": 1280, "h": 960 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 1280, "h": 960 },
+    "sourceSize": { "w": 1280, "h": 960 },
+    "duration": 100
+   },
+   {
+    "filename": "*MainMenu (29 mins(small version)) 11.aseprite",
+    "frame": { "x": 1280, "y": 960, "w": 1280, "h": 960 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 1280, "h": 960 },
+    "sourceSize": { "w": 1280, "h": 960 },
+    "duration": 100
+   },
+   {
+    "filename": "*MainMenu (29 mins(small version)) 12.aseprite",
+    "frame": { "x": 2560, "y": 960, "w": 1280, "h": 960 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 1280, "h": 960 },
+    "sourceSize": { "w": 1280, "h": 960 },
+    "duration": 100
+   },
+   {
+    "filename": "*MainMenu (29 mins(small version)) 13.aseprite",
+    "frame": { "x": 3840, "y": 960, "w": 1280, "h": 960 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 1280, "h": 960 },
+    "sourceSize": { "w": 1280, "h": 960 },
+    "duration": 100
+   },
+   {
+    "filename": "*MainMenu (29 mins(small version)) 14.aseprite",
+    "frame": { "x": 5120, "y": 960, "w": 1280, "h": 960 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 1280, "h": 960 },
+    "sourceSize": { "w": 1280, "h": 960 },
+    "duration": 100
+   },
+   {
+    "filename": "*MainMenu (29 mins(small version)) 15.aseprite",
+    "frame": { "x": 6400, "y": 960, "w": 1280, "h": 960 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 1280, "h": 960 },
+    "sourceSize": { "w": 1280, "h": 960 },
+    "duration": 100
+   },
+   {
+    "filename": "*MainMenu (29 mins(small version)) 16.aseprite",
+    "frame": { "x": 7680, "y": 960, "w": 1280, "h": 960 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 1280, "h": 960 },
+    "sourceSize": { "w": 1280, "h": 960 },
+    "duration": 100
+   },
+   {
+    "filename": "*MainMenu (29 mins(small version)) 17.aseprite",
+    "frame": { "x": 8960, "y": 960, "w": 1280, "h": 960 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 1280, "h": 960 },
+    "sourceSize": { "w": 1280, "h": 960 },
+    "duration": 100
+   },
+   {
+    "filename": "*MainMenu (29 mins(small version)) 18.aseprite",
+    "frame": { "x": 10240, "y": 960, "w": 1280, "h": 960 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 1280, "h": 960 },
+    "sourceSize": { "w": 1280, "h": 960 },
+    "duration": 100
+   },
+   {
+    "filename": "*MainMenu (29 mins(small version)) 19.aseprite",
+    "frame": { "x": 11520, "y": 960, "w": 1280, "h": 960 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 1280, "h": 960 },
+    "sourceSize": { "w": 1280, "h": 960 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.17-x64",
+  "image": "planets.png",
+  "format": "RGBA8888",
+  "size": { "w": 12800, "h": 1920 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Samuel/source/repos/Team 3 Project (menu)/Team 3 Project (menu)/Content/Buttons/Font.spritefont</SourceFile>
+  <SourceTime>2011-01-03T10:12:48-07:00</SourceTime>
+  <DestFile>C:/Users/Samuel/source/repos/Team 3 Project (menu)/Team 3 Project (menu)/Content/bin/Windows/Buttons/Font.xnb</DestFile>
+  <DestTime>2020-04-10T20:13:27.0833114-06:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T09:35:54-07:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T09:35:54-07:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

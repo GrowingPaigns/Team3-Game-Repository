@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Samuel/Desktop/Team 3 Project (menu)/Content/29MinsToJupiter.mp3</File>
+    <File>C:/Users/Samuel/Desktop/Team 3 Project (menu)/Content/Buttons/Font.spritefont</File>
+    <File>C:/Users/Samuel/Desktop/Team 3 Project (menu)/Content/Buttons/HighScores.png</File>
+    <File>C:/Users/Samuel/Desktop/Team 3 Project (menu)/Content/Buttons/HSBackDrop.png</File>
+    <File>C:/Users/Samuel/Desktop/Team 3 Project (menu)/Content/Buttons/MainMenu(button).png</File>
+    <File>C:/Users/Samuel/Desktop/Team 3 Project (menu)/Content/Buttons/New Game.png</File>
+    <File>C:/Users/Samuel/Desktop/Team 3 Project (menu)/Content/Buttons/Options.png</File>
+    <File>C:/Users/Samuel/Desktop/Team 3 Project (menu)/Content/Buttons/Quit Game.png</File>
+    <File>C:/Users/Samuel/Desktop/Team 3 Project (menu)/Content/JupiterTitle.png</File>
+    <File>C:/Users/Samuel/Desktop/Team 3 Project (menu)/Content/planets.png</File>
+    <File>C:/Users/Samuel/Desktop/Team 3 Project (menu)/Content/planetsAnimation.json</File>
+    <File>C:/Users/Samuel/Desktop/Team 3 Project (menu)/Content/TopBorder.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
