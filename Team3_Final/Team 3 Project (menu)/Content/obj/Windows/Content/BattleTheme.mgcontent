@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Samuel/source/repos/Team proj/Team 3 Project (menu)/Content/BattleTheme.mp3</SourceFile>
+  <SourceTime>2020-04-13T18:44:22.2345656-06:00</SourceTime>
+  <DestFile>C:/Users/Samuel/source/repos/Team proj/Team 3 Project (menu)/Content/bin/Windows/Content/BattleTheme.xnb</DestFile>
+  <DestTime>2020-04-13T18:45:11.5332678-06:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-12-08T09:35:54-07:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T09:35:54-07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Samuel/source/repos/Team proj/Team 3 Project (menu)/Content/bin/Windows/Content/BattleTheme.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

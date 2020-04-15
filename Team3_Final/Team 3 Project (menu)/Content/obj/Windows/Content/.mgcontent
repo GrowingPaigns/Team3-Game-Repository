@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Samuel/source/repos/Team proj/Team 3 Project (menu)/Content/29minsMap.png</File>
+    <File>C:/Users/Samuel/source/repos/Team proj/Team 3 Project (menu)/Content/29MinsToJupiter.mp3</File>
+    <File>C:/Users/Samuel/source/repos/Team proj/Team 3 Project (menu)/Content/BattleTheme.mp3</File>
+    <File>C:/Users/Samuel/source/repos/Team proj/Team 3 Project (menu)/Content/Buttons/Font.spritefont</File>
+    <File>C:/Users/Samuel/source/repos/Team proj/Team 3 Project (menu)/Content/Buttons/HighScores.png</File>
+    <File>C:/Users/Samuel/source/repos/Team proj/Team 3 Project (menu)/Content/Buttons/HSBackDrop.png</File>
+    <File>C:/Users/Samuel/source/repos/Team proj/Team 3 Project (menu)/Content/Buttons/MainMenu(button).png</File>
+    <File>C:/Users/Samuel/source/repos/Team proj/Team 3 Project (menu)/Content/Buttons/New Game.png</File>
+    <File>C:/Users/Samuel/source/repos/Team proj/Team 3 Project (menu)/Content/Buttons/Options.png</File>
+    <File>C:/Users/Samuel/source/repos/Team proj/Team 3 Project (menu)/Content/Buttons/Quit Game.png</File>
+    <File>C:/Users/Samuel/source/repos/Team proj/Team 3 Project (menu)/Content/Collidables/Collidables1.png</File>
+    <File>C:/Users/Samuel/source/repos/Team proj/Team 3 Project (menu)/Content/Collidables/Collidables2.png</File>
+    <File>C:/Users/Samuel/source/repos/Team proj/Team 3 Project (menu)/Content/Collidables/Collidables4.png</File>
+    <File>C:/Users/Samuel/source/repos/Team proj/Team 3 Project (menu)/Content/Collidables/Collidables5.png</File>
+    <File>C:/Users/Samuel/source/repos/Team proj/Team 3 Project (menu)/Content/Collidables/Collidables6.png</File>
+    <File>C:/Users/Samuel/source/repos/Team proj/Team 3 Project (menu)/Content/Collidables/Collidables7.png</File>
+    <File>C:/Users/Samuel/source/repos/Team proj/Team 3 Project (menu)/Content/Collidables/Collidables8.png</File>
+    <File>C:/Users/Samuel/source/repos/Team proj/Team 3 Project (menu)/Content/Collidables/Collidables9.png</File>
+    <File>C:/Users/Samuel/source/repos/Team proj/Team 3 Project (menu)/Content/JupiterTitle.png</File>
+    <File>C:/Users/Samuel/source/repos/Team proj/Team 3 Project (menu)/Content/planets.png</File>
+    <File>C:/Users/Samuel/source/repos/Team proj/Team 3 Project (menu)/Content/Player/PlayerIdle.png</File>
+    <File>C:/Users/Samuel/source/repos/Team proj/Team 3 Project (menu)/Content/Player/PlayerLeft.png</File>
+    <File>C:/Users/Samuel/source/repos/Team proj/Team 3 Project (menu)/Content/Player/PlayerRight.png</File>
+    <File>C:/Users/Samuel/source/repos/Team proj/Team 3 Project (menu)/Content/Projectile1.png</File>
+    <File>C:/Users/Samuel/source/repos/Team proj/Team 3 Project (menu)/Content/space.png</File>
+    <File>C:/Users/Samuel/source/repos/Team proj/Team 3 Project (menu)/Content/stars1.png</File>
+    <File>C:/Users/Samuel/source/repos/Team proj/Team 3 Project (menu)/Content/stars2.png</File>
+    <File>C:/Users/Samuel/source/repos/Team proj/Team 3 Project (menu)/Content/TopBorder.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
